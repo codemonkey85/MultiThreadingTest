@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingTest", "MultiThreadingTest\MultiThreadingTest.csproj", "{958C1D19-FA73-4FF7-90C7-976286587457}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{A283C664-9DFE-489E-9DF8-2311FFB6E7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{958C1D19-FA73-4FF7-90C7-976286587457}.Debug|x86.Build.0 = Debug|x86
 		{958C1D19-FA73-4FF7-90C7-976286587457}.Release|x86.ActiveCfg = Release|x86
 		{958C1D19-FA73-4FF7-90C7-976286587457}.Release|x86.Build.0 = Release|x86
+		{A283C664-9DFE-489E-9DF8-2311FFB6E7FD}.Debug|x86.ActiveCfg = Debug|x86
+		{A283C664-9DFE-489E-9DF8-2311FFB6E7FD}.Debug|x86.Build.0 = Debug|x86
+		{A283C664-9DFE-489E-9DF8-2311FFB6E7FD}.Release|x86.ActiveCfg = Release|x86
+		{A283C664-9DFE-489E-9DF8-2311FFB6E7FD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
